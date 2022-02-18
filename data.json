@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Giorgi",
+      "lastname": "Bazerashvili",
+      "age": 26,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "firstname": "Giorgi",
+      "lastname": "Bazerashvili",
+      "age": 27,
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "firstname": "Giorgi",
+      "lastname": "Bazerashvili",
+      "age": 28,
+      "isActive": true
+    }
+  ]
+}
